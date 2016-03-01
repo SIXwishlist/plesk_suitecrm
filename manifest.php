@@ -30,5 +30,9 @@
                 'from' => 'custom/Extension/modules/Schedulers/Ext/ScheduledTasks/plesk_customers.php',
                 'to' => 'custom/Extension/modules/Schedulers/Ext/ScheduledTasks/plesk_customers.php',
             ),
+            3 => array(
+                'from' => 'custom/Extension/modules/Schedulers/Ext/Language/en_us.plesk.php',
+                'to' => 'custom/Extension/modules/Schedulers/Ext/Language/en_us.plesk.php',
+            ),            
         ),
     );
