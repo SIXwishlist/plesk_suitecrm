@@ -11,7 +11,7 @@
         'icon' => '',
         'is_uninstallable' => true,
         'name' => 'Plesk Provisioning Installer',
-        'published_date' => '2016-03-01 2012 1:05:00',
+        'published_date' => '2016-03-01 1:05:00',
         'type' => 'module',
         'version' => '1391608631',
     );
