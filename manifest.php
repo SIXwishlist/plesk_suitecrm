@@ -33,6 +33,14 @@
             3 => array(
                 'from' => 'custom/Extension/modules/Schedulers/Ext/Language/en_us.plesk.php',
                 'to' => 'custom/Extension/modules/Schedulers/Ext/Language/en_us.plesk.php',
-            ),            
+            ),
+            4 => array(
+                'from' => 'custom/modules/Administration/PleskAdmin.php',
+                'to' => 'custom/modules/Administration/PleskAdmin.php',
+            ),
+            5 => array(
+                'from' => 'custom/modules/Administration/PleskAdmin.tpl',
+                'to' => 'custom/modules/Administration/PleskAdmin.tpl',
+            ),                     
         ),
     );
