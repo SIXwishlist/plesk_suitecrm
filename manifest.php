@@ -41,6 +41,6 @@
             5 => array(
                 'from' => 'custom/modules/Administration/PleskAdmin.tpl',
                 'to' => 'custom/modules/Administration/PleskAdmin.tpl',
-            ),                     
+            ),
         ),
     );

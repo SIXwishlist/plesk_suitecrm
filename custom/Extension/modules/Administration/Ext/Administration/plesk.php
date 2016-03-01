@@ -25,7 +25,7 @@ $admin_group_header[] = array(
         false,
         
         //Section links
-        $admin_option_defs, 
+        $admin_option_defs,
         
         //Section description label
         ''
